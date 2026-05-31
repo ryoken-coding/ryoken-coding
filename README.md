@@ -15,7 +15,7 @@ When I'm not staring at a code editor, I'm usually pushing my brain in other dir
 * 🎵 **Multi-Instrumentalist:** I play in an orchestra and currently know 6 instruments (Trombone, Violin, Saxophone, Flute, Trumpet, and Drum Kit). I love picking up new ones on the fly. <br>
 * 🌌 **Physics & Math Nerd:** 1st place in "**XXVII CAMPEONATO DOS JOGOS DA MATEMÁTICA ENSINO PROFISIONAL**" with EPA (featured in *Anadia's Jornal*). I also designed an original conceptual physics model and custom algebra system to explore subatomic particle behaviors (photons, quarks, etc.).
 * <br>
-*♟️ **Strategy & Speed:** <br>
+* ♟️ **Strategy & Speed:** <br>
 * Gold medalist in chess (learned piece movements on the fly during the tournament; big fan of efficient endgame checkmates). <br>
 * Rubik's Cube speedcuber with a Personal Best of **31 seconds**. <br>
 
